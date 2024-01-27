@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20I'm%20Thomas&fontSize=60&descAlign=72&descAlignY=71&descSize=60&animation=fadeIn&strokeWidth=0&reversal=false" />
 </p>
 
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20I'm%20Thomas&fontSize=60&descAlign=72&descAlignY=71&descSize=60&animation=fadeIn&strokeWidth=0&reversal=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=About%20Me)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=About%20Me)" />
-</p>
+#### Let's connect
+
+
+### About me
 ```yaml
 Person:
   name: Thomas
