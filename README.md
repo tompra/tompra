@@ -7,33 +7,50 @@ Person:
   name: Thomas
   located_in: Berlin, Germany
   current_job: Looking for my first Web Developer role
-  education: Multimedia Design
+  education:
+  [
+    Multimedia Design,
+    Career Foundry Fullstack Web Development Bootcamp
+  ]
   fields_of_interests:
-    - Web Development
-    - Climbing
-    - Tattoing
-    - Design
-    - Education
-    - Gastronomy
-  technical_background: JavaScript, HTML/CSS
+  [
+    Web Development,
+    Climbing,
+    Tattoing,
+    Design,
+    Education,
+    Gastronomy
+  ]
+  technical_background:
+    [
+      HTML,
+      CSS,
+      JavaScript
+    ]
   tools:
-    - Visual Studio Code
-    - Git
-    - Github
-    - Trello
-    - Adobe Photoshop
-    - Adobe Illustrator
+  [
+    Visual Studio Code,
+    Git,
+    Github,
+    Trello,
+    Adobe Photoshop,
+    Adobe Illustrator,
+   ]
   currently_learning: TypeScript
   goals_2024:
-    - Land my first web developer job
-    - Take my IRATA certification
-    - Become proficient in Frontend and Backend
+  [
+    Land my first web developer job,
+    Take my IRATA certification,
+    Become proficient in Frontend and Backend
+  ]
   hobbies:
-    - Reading
-    - Climbing
-    - Playing Bass
-    - Drawing
-    - Tattoing
+  [
+    Reading,
+    Climbing,
+    Playing Bass,
+    Drawing,
+    Tattoing,
+  ]
 ```
 
 
