@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Thomas, a full stack JavaScript web developer!
 
-Currently I just finished the CareerFoundry FullStack Web Development Bootcamp and looking to contribute on tool to improve in areas such as Climbing, Design, Education and Sustainability. 
+Currently I just finished the CareerFoundry FullStack Web Development Bootcamp and looking to contribute on tools to improve in areas such as Climbing, Design, Education and Sustainability. 
 
 If you want to know more about me check my [portfolio](https://https://tomprayondev.netlify.app/)
 
