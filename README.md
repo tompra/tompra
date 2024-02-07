@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
+### Hi there, I'm Thomas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Full Stack JavaScript Developer with a passion for climbing, drawing, tattoos, and design.
 
