@@ -1,10 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Thomas, a full stack JavaScript web developer!
+### Hi there, I'm Thomas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Currently I just finished the CareerFoundry FullStack Web Development Bootcamp and looking to contribute on tools to improve in areas such as Climbing, Design, Education and Sustainability. 
+### I'm a Full Stack JavaScript Developer
 
-If you want to know more about me check my [portfolio](https://https://tomprayondev.netlify.app/)
+Currently I just finished the CareerFoundry FullStack Web Development Bootcamp and looking to contribute on tools to improve in areas such as Climbing, Design, Education and Sustainability.
 
-### Skills
+If you want to know more about me check my [portfolio](https://tomprayondev.netlify.app/) 
+
+### My Skillset
 
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg'
                     width='40'
@@ -108,69 +110,6 @@ If you want to know more about me check my [portfolio](https://https://tomprayon
                     height='40'
                 />
 
-### About me
-```yaml
-Person:
-  name: Thomas
-  located_in: Berlin, Germany
-  current_job: Looking for my first Web Developer role
-  education:
-  [
-    Multimedia Design,
-    Career Foundry Fullstack Web Development Bootcamp
-  ]
-  fields_of_interests:
-  [
-    Web Development,
-    Climbing,
-    Tattoing,
-    Design,
-    Education,
-    Gastronomy
-  ]
-  technical_background:
-    [
-      HTML,
-      CSS,
-      JavaScript
-    ]
-  tools:
-  [
-    Visual Studio Code,
-    Git,
-    Github,
-    Trello,
-    Adobe Photoshop,
-    Adobe Illustrator,
-   ]
-  currently_learning: TypeScript
-  goals_2024:
-  [
-    Land my first web developer job,
-    Take my IRATA certification,
-    Become proficient in Frontend and Backend
-  ]
-  hobbies:
-  [
-    Reading,
-    Climbing,
-    Playing Bass,
-    Drawing,
-    Tattoing,
-  ]
-```
-
-<!--
-**tompra/tompra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+[LinkedIn]<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />(https://www.linkedin.com/in/thom-prayon)
+[Portfolio]<img src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white' />(https://tomprayondev.netlify.app/)
