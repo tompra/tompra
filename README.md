@@ -26,57 +26,57 @@ If you want to know more about me check my [portfolio](https://https://tomprayon
                     src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'
                     width='40'
@@ -86,22 +86,22 @@ If you want to know more about me check my [portfolio](https://https://tomprayon
                     src='https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg'
                     width='40'
