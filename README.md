@@ -1,34 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Thomas, a full stack JavaScript web developer!
 
-
-### Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thom-prayon)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tomprayon)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomprayon@gmail.com)
-
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="30" height="30" /><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30" />
 
 ### About me
 ```yaml
