@@ -27,11 +27,9 @@ If you want to know more about me check my [portfolio](https://tomprayondev.netl
                     height='40'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='40' height='40'/>
   <img
-                    src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg'
-                    width='40'
-                    height='40'/>
+ src='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg' width='40'height='40'/>
   <img
-                    src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'
+    src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'
                     width='40'
                     height='40'
                 />
@@ -94,7 +92,7 @@ If you want to know more about me check my [portfolio](https://tomprayondev.netl
                     src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'
                     width='40'
                     height='40'
-                />{' '}
+                />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg'
                     width='40'
@@ -102,7 +100,7 @@ If you want to know more about me check my [portfolio](https://tomprayondev.netl
                 />
                 <img
                     src='https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg'
-                    width='40'
+               width='40'
                     height='40'
                 />
                 <img
@@ -120,5 +118,6 @@ If you want to know more about me check my [portfolio](https://tomprayondev.netl
                     width='40'
                     height='40'
                 />
+
 
 
