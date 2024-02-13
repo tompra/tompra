@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Full Stack JavaScript Developer with a passion for climbing, drawing, tattoos, and sustainability. 
+## I'm a Full Stack JavaScript Developer with a passion for climbing, drawing & tattoos, and sustainability. 
 
 ✔️ Currently I just finished the CareerFoundry FullStack Web Development Bootcamp and looking to contribute on tools to improve in areas such as Climbing, Design, Education and Sustainability.
 
